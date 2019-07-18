@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="first_choice" label="First Choice" language="en" table="x_snc_testing123_first">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first_choice</element>
+            <help/>
+            <hint/>
+            <label>First Choice</label>
+            <language>en</language>
+            <name>x_snc_testing123_first</name>
+            <plural>First Choices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anson.mayers</sys_created_by>
+            <sys_created_on>2019-07-18 06:44:17</sys_created_on>
+            <sys_id>35dc3810dbbe3300f28af78eaf9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Choice</sys_name>
+            <sys_package display_value="testing123" source="x_snc_testing123">70aabc5cdb7e3300f28af78eaf9619fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testing123">70aabc5cdb7e3300f28af78eaf9619fa</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_testing123_first_first_choice_en</sys_update_name>
+            <sys_updated_by>anson.mayers</sys_updated_by>
+            <sys_updated_on>2019-07-18 06:44:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
