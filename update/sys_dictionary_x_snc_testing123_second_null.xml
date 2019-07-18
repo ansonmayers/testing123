@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="first_choice" table="x_snc_testing123_first">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="x_snc_testing123_first" table="x_snc_testing123_second">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -11,10 +11,10 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>1</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>First Choice</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +27,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>first_choice</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_testing123_first</name>
+        <name>x_snc_testing123_second</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>anson.mayers</sys_created_by>
-        <sys_created_on>2019-07-18 06:44:14</sys_created_on>
-        <sys_id>80ccb010dbbe3300f28af78eaf9619ab</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>First Choice</sys_name>
+        <sys_created_on>2019-07-18 09:57:42</sys_created_on>
+        <sys_id>0b192d94dbb27300f28af78eaf961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testing123_second</sys_name>
         <sys_package display_value="testing123" source="x_snc_testing123">70aabc5cdb7e3300f28af78eaf9619fa</sys_package>
         <sys_policy/>
         <sys_scope display_value="testing123">70aabc5cdb7e3300f28af78eaf9619fa</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_testing123_first_first_choice</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_testing123_second_null</sys_update_name>
         <sys_updated_by>anson.mayers</sys_updated_by>
-        <sys_updated_on>2019-07-18 09:49:45</sys_updated_on>
+        <sys_updated_on>2019-07-18 09:57:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
