@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="First" max_length="40" name="x_snc_testing123_first" type="collection">
-        <element choice="1" label="First Choice" max_length="40" name="first_choice" type="choice">
+        <element choice="1" label="First Choice" mandatory="true" max_length="40" name="first_choice" type="choice">
             <choice>
                 <element inactive_on_update="false" label="one" value="one"/>
                 <element inactive_on_update="false" label="two" value="two"/>
