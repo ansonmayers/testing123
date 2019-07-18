@@ -3,7 +3,7 @@
         <element choice="1" label="First Choice" mandatory="true" max_length="40" name="first_choice" type="choice">
             <choice>
                 <element inactive_on_update="false" label="one" value="one"/>
-                <element inactive_on_update="false" label="two" value="two"/>
+                <element inactive_on_update="false" label="two edited" value="two"/>
             </choice>
         </element>
     </element>
